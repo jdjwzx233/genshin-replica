@@ -164,6 +164,10 @@ export default class World extends kokomi.Component {
 
     await kokomi.sleep(10000);
 
-    alert("没错，你卡了");
+    gsap.to(rule, {
+      width: "100.0%",
+      duration: 5,
+    });
+    window.location.replace("https://www.jdjwzx233.cn/");
   }
 }
