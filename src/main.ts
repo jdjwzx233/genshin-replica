@@ -26,8 +26,11 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = /* html */ `
       </div>
     </div>
     <div class="disclaimer">
-  <p>免责声明：这个项目不是官方的《原神》产品，也没有与《原神》或其母公司miHoYo有任何关联。这个网站的所有内容仅供学习和研究目的。</p>、
-  <a href="https://github.com/alphardex/genshin-replica">点我查看项目</a>
+  <p>免责声明：</p>
+  <p>1.这个网站不是官方的《原神》产品，也没有与《原神》或其母公司miHoYo有任何关联。</p>
+  <p>2.这个网站的所有内容仅供学习和研究目的。我们没有，也无意从这个项目中获得任何经济利益。</p>
+  <a href="https://github.com/alphardex/genshin-replica">点我查看原项目:https://github.com/alphardex/genshin-replica</a>
+  <p>如果miHoYo或任何有关方面认为这个项目侵犯了他们的权益，请联系support@jdjwzx233.cn，我们会立即关闭网站。</p>
     </div>
   </div>
 </div>
